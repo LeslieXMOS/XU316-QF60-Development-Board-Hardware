@@ -12567,6 +12567,15 @@
 				(hide yes)
 			)
 		)
+		(property "JLCPart" "C411236"
+			(at 50.8 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b330a748-5996-46d9-aad2-283867ff61ba")
 		)
@@ -13693,6 +13702,15 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
+			(at 50.8 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPart" "C411236"
 			(at 50.8 139.7 0)
 			(effects
 				(font
